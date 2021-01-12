@@ -10,6 +10,7 @@ If you use this parameter set, please cite:
 and also please cite the following for the source of the HeFESTo code:
 
 (2) Stixrude, L. and C. Lithgow-Bertelloni, Thermodynamics of mantle minerals - I. Physical properties, Geophysical Journal International, 162, 610-632, 2005.
+
 (3) Stixrude, L. and C. Lithgow-Bertelloni, Thermodynamics of mantle minerals - II. Phase equilibria, Geophysical Journal International, 184, 1180-1213, 2011.
 
 ***** WARNING *****  
